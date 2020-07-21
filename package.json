@@ -1,0 +1,30 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Create a blog using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^3.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-edge": "^2.0.1",
+    "express-fileupload": "^1.1.6",
+    "express-session": "^1.17.0",
+    "mongodb": "^3.4.0",
+    "mongoose": "^5.8.0",
+    "nodemon": "^2.0.2",
+    "popper.js": "^1.14.3",
+    "startbootstrap-clean-blog": "^5.0.8"
+  }
+}
